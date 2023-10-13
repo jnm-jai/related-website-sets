@@ -146,6 +146,20 @@
         ],
         "https://tucarro.com": ["https://tucarro.com.co", "https://tucarro.com.ve"]
       }
-    }
+    },
+{
+   "contact": "jai.sharma@jagrannewmedia.com",
+   "primary": "https://www.jagran.com",
+   "associatedSites": [
+      "https://english.jagran.com/",
+      "https://www.gujaratijagran.com",
+      "https://www.punjabijagran.com"
+   ],
+   "rationaleBySite": {
+      "https://english.jagran.com/": "News Website for English audience",
+      "https://www.gujaratijagran.com": "News Website for Gujarati audience",
+      "https://www.punjabijagran.com": "News Website for Punjabi audience"
+   }
+}
   ]
 }
